@@ -2,3 +2,5 @@ github.com/denilson020898/go_say_hello v1.0.0 h1:TrL8YA1ww9V+ynHODrZJZu2xwiLb4ct
 github.com/denilson020898/go_say_hello v1.0.0/go.mod h1:6wLezV0H0S1KIgA0vK1shvYZMNnwYIHqPGTs3JPhBgA=
 github.com/denilson020898/go_say_hello v1.0.1 h1:fNpLDtxr/qRqgPaLg6fzAbf57ZYA7gVtylNqKV/RfF0=
 github.com/denilson020898/go_say_hello v1.0.1/go.mod h1:6wLezV0H0S1KIgA0vK1shvYZMNnwYIHqPGTs3JPhBgA=
+github.com/denilson020898/go_say_hello/v2 v2.0.1 h1:bznCdWd5eBW3AMtaufnVTS2cGi2asrF9aLSJViW/NcE=
+github.com/denilson020898/go_say_hello/v2 v2.0.1/go.mod h1:aSWCMux21FjTJvJ8axrNFGBoThGEmuJQsLP6xa0P9a4=

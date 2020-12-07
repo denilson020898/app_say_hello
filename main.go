@@ -3,10 +3,11 @@ package main
 import (
 	"fmt"
 
-	"github.com/denilson020898/go_say_hello"
+	"github.com/denilson020898/go_say_hello/v2"
 )
 
 func main() {
 	name := "Denilson"
-	fmt.Println(go_say_hello.SayHello(name))
+	msg := "Denilson"
+	fmt.Println(go_say_hello.SayHello(msg, name))
 }
